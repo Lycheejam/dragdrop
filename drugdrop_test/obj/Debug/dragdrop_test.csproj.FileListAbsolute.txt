@@ -1,0 +1,9 @@
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\bin\Debug\drugdrop_test.exe.config
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\bin\Debug\drugdrop_test.exe
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\bin\Debug\drugdrop_test.pdb
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\obj\Debug\drugdrop_test.Form1.resources
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\obj\Debug\drugdrop_test.Properties.Resources.resources
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\obj\Debug\dragdrop_test.csproj.GenerateResource.Cache
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\obj\Debug\drugdrop_test.exe
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\obj\Debug\drugdrop_test.pdb
+E:\Visual Studio 2015\Projects\arduino_builder\drugdrop_test\obj\Debug\dragdrop_test.csprojResolveAssemblyReference.cache
